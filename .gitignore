@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Sublime project files
+*.sublime-project
+*.sublime-workspace
+
+# Assets
+static/assets/fonts/
+static/assets/images/
+static/assets/sounds/
