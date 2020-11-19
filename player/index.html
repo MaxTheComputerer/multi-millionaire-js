@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Who Wants To Be A Millionaire?</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="preload" as="font" href="assets/fonts/CopperplateGothicBT-Roman.woff2" crossorigin="anonymous">
+	<link rel="preload" as="image" href="assets/images/logo.png">
+	<link rel="preload" as="image" href="assets/images/background_3.png">
+	<link rel="preload" as="image" href="assets/images/ladder_bg.png">
+	<link rel="preload" as="image" href="assets/images/line.png">
+	<link rel="preload" as="image" href="assets/images/phone.png">
+	<link rel="preload" as="image" href="assets/images/sprite_ans_left.png">
+	<link rel="preload" as="image" href="assets/images/sprite_ans_right.png">
+	<link rel="preload" as="image" href="assets/images/audience.png">
+	<link rel="preload" as="image" href="assets/images/5050.png">
+	<link rel="preload" as="font" href="assets/fonts/Conduit_ITC_Bold.ttf" crossorigin="anonymous">
+	<link rel="preload" as="font" href="assets/fonts/conduit_itc.ttf" crossorigin="anonymous">
+	<link rel="preload" as="font" href="assets/fonts/Copperplate Gothic 32 BC.otf" crossorigin="anonymous">
+	<link rel="preload" as="font" href="assets/fonts/Memphis-Bold.woff" crossorigin="anonymous">
+	<link rel="preload" as="image" href="assets/images/background_0.png">
+	<link rel="preload" as="image" href="assets/images/background_1.png">
+	<link rel="preload" as="image" href="assets/images/background_2.png">
+
+	<link rel="preload" as="script" href="https://cdnjs.cloudflare.com/ajax/libs/pizzicato/0.6.4/Pizzicato.min.js" crossorigin="anonymous">
+	<link rel="preload" as="script" href="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous">
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pizzicato/0.6.4/Pizzicato.min.js" crossorigin="anonymous"></script>
+
+	<link rel="preload" as="script" href="hscripts/sounds.js">
+
+	<link rel="prefetch" as="image" href="assets/images/clock.gif">
+	<link rel="prefetch" as="image" href="assets/images/clock.png">
+	<link rel="prefetch" as="image" href="assets/images/millionaire.png">
+	<link rel="prefetch" as="image" href="assets/images/quest.png">
+	<link rel="prefetch" as="image" href="assets/images/totalprize.png">
+	<link rel="prefetch" as="image" href="assets/images/winnings.png">
+	<link rel="prefetch" as="font" href="assets/fonts/CopperplateGothicBT-RomanCond.woff2" crossorigin="anonymous">
+
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script src="/socket.io/socket.io.js"></script>
+	<link rel ="stylesheet" href="assets/style.css">
+	<link rel="icon" type="image/png" href="assets/images/logo.png">
+</head>
+
+<body id="background" class="bg-3">
+
+	<div class="loading">
+		<h1>Loading...</h1>
+	</div>
+
+	<div class="container-fluid pl-0 pr-0 pt-3 pb-5">
+		<div></div>
+		<div class="row mr-0 ml-1 mb-5">
+			<div class="col-lg-8 text-center">
+				<div class="normal-block">
+					<img class="mx-auto pt-5 pb-5 logo" src="assets/images/logo.png" style="width: 40%; height:auto;">
+				</div>
+
+				<div class="align-items-center phone-block">
+					<div class="phone-block-inner">
+						<img class="mx-auto pt-5 pb-5" src="assets/images/clock.png" id="clock" style="width: 40%; height:auto;">
+						<div class="mx-auto phone-text">
+							<span id="phone-text">Ringing...</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="align-items-center audience-block">
+					<div class="audience-block-inner">
+						<table class="audience-table audience-table-votes">
+							<tbody><tr>
+								<td id="audience-0"></td>
+								<td id="audience-1"></td>
+								<td id="audience-2"></td>
+								<td id="audience-3"></td>
+							</tr></tbody>
+						</table>
+						<canvas id="audience-canvas" class="" width="303" height="378"></canvas>
+						<table class="audience-table audience-table-letters">
+							<tbody><tr>
+								<td></td><td>A</td>
+								<td class="audience-diamond">◆</td><td>B</td>
+								<td class="audience-diamond">◆</td><td>C</td>
+								<td class="audience-diamond">◆</td><td>D</td><td></td>
+							</tr></tbody>
+						</table>
+					</div>
+				</div>
+
+			</div>
+			<div class="col-lg-4 pl-4 pt-3 pb-3 pr-0" id="ladder-bg">
+				<div class="row mb-3 ml-0 mr-0">
+					<div class="col-auto mr-2 l-5050"></div>
+					<div class="col-auto mr-2 l-phone"></div>
+					<div class="col-auto l-audience"></div>
+				</div>
+				<table class="row ladder">
+					<tr id="15" class="safety"><td class="question-number"><span>15</span></td><td class="diamond">◆</td><td>£1 MILLION</td></tr>
+					<tr id="14"><td class="question-number"><span>14</span></td><td class="diamond">◆</td><td>£500,000</td></tr>
+					<tr id="13"><td class="question-number"><span>13</span></td><td class="diamond">◆</td><td>£250,000</td></tr>
+					<tr id="12"><td class="question-number"><span>12</span></td><td class="diamond">◆</td><td>£125,000</td></tr>
+					<tr id="11"><td class="question-number"><span>11</span></td><td class="diamond">◆</td><td>£64,000</td></tr>
+					<tr id="10" class="safety"><td class="question-number"><span>10</span></td><td class="diamond">◆</td><td>£32,000</td></tr>
+					<tr id="9"><td class="question-number"><span>9</span></td><td class="diamond">◆</td><td>£16,000</td></tr>
+					<tr id="8"><td class="question-number"><span>8</span></td><td class="diamond">◆</td><td>£8,000</td></tr>
+					<tr id="7"><td class="question-number"><span>7</span></td><td class="diamond">◆</td><td>£4,000</td></tr>
+					<tr id="6"><td class="question-number"><span>6</span></td><td class="diamond">◆</td><td>£2,000</td></tr>
+					<tr id="5" class="safety"><td class="question-number"><span>5</span></td><td class="diamond">◆</td><td>£1,000</td></tr>
+					<tr id="4"><td class="question-number"><span>4</span></td><td class="diamond">◆</td><td>£500</td></tr>
+					<tr id="3"><td class="question-number"><span>3</span></td><td class="diamond">◆</td><td>£300</td></tr>
+					<tr id="2"><td class="question-number"><span>2</span></td><td class="diamond">◆</td><td>£200</td></tr>
+					<tr id="1"><td class="question-number"><span>1</span></td><td class="diamond">◆</td><td>£100</td></tr>
+				</table>
+			</div>
+		</div>
+		<div></div>
+		<div id="quest-row" class="row" style="margin-left: 0; margin-right: 0;">
+			<div class="quest">
+				<span id="question"></span>
+			</div>
+			<div class="answ_block mx-auto">
+				<div class="answ_row clearfix">
+					<div class="answ">
+						<div class="answ_inside answ_left" id="inside_0">
+							<div class="answ_text">
+								<span class="ans_1 ans_diamond">◆</span>
+								<span class="ans_1">A:</span>
+								<span class="ans_2" id="opt_0"></span>
+							</div>
+						</div>
+					</div>
+
+					<div class="answ">
+						<div class="answ_inside answ_right" id="inside_1">
+							<div class="answ_text">
+								<span class="ans_1 ans_diamond">◆</span>
+								<span class="ans_1">B:</span>
+								<span class="ans_2" id="opt_1"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="answ_row clearfix">
+					<div class="answ">
+						<div class="answ_inside answ_left" id="inside_2">
+							<div class="answ_text">
+								<span class="ans_1 ans_diamond">◆</span>
+								<span class="ans_1">C:</span>
+								<span class="ans_2" id="opt_2"></span>
+							</div>
+						</div>
+					</div>
+					
+					<div class="answ">
+						<div class="answ_inside answ_right" id="inside_3">
+							<div class="answ_text">
+								<span class="ans_1 ans_diamond">◆</span>
+								<span class="ans_1">D:</span>
+								<span class="ans_2" id="opt_3"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<div id="game-over-row" class="row" style="margin-left: 0; margin-right: 0; margin-top: -3rem;">
+			<div class="prize">
+				<span id="prize-text"></span>
+			</div>
+		</div>
+
+
+
+		<div id="win-row" class="row" style="margin-left: 0; margin-right: 0; margin-top: -3rem;">
+			<div class="mprize">
+				<span id="mprize-text"></span>
+			</div>
+		</div>
+
+
+		<div id="winnings-row" class="row" style="margin-left: 0; margin-right: 0; min-height:231px;">
+			<div class="winnings">
+				<span id="winnings-text"></span>
+			</div>
+		</div>
+
+		<div></div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+	<script src="hscripts/sounds.js"></script>
+	
+</body>
+
+<script>
+
+	socket.on('game_closed', function(data) {
+		location.reload();
+	});
+
+
+	// Load.js
+
+	socket.on('start', async function() {
+		$('#background').removeClass('bg-3');
+		await sleep(8000);
+		$('#quest-row').css('display', 'block');
+	});
+
+
+
+
+	// Game.js
+
+	socket.on('display_background_1', function() {
+		$('#background').addClass('bg-1');
+	});
+
+	socket.on('display_background_2', function() {
+		$('#background').addClass('bg-2');
+	});
+
+	socket.on('display_background_3', function() {
+		$('#background').addClass('bg-3');
+	});
+
+	socket.on('remove_background', function() {
+		$('#background').removeClass('bg-1').removeClass('bg-2').removeClass('bg-3');
+	});
+
+	socket.on('display_question', function(question) {
+		$('#question').text(question);
+	});
+
+	socket.on('display_opt_0', function(opt_0) {
+		$('#opt_0').text(opt_0);
+	});
+
+	socket.on('display_opt_1', function(opt_1) {
+		$('#opt_1').text(opt_1);
+	});
+
+	socket.on('display_opt_2', function(opt_2) {
+		$('#opt_2').text(opt_2);
+	});
+
+	socket.on('display_opt_3', function(opt_3) {
+		$('#opt_3').text(opt_3);
+	});
+
+	socket.on('select_option', function(option) {
+		$('#opt_'+option).parentsUntil('.answ', '.answ_inside').addClass('answ_selected');
+	});
+
+	socket.on('set_ladder_current', function(question_number) {
+		$('#'+(question_number-1)).removeClass('current');
+		$('#'+question_number).addClass('current');
+	});
+
+	socket.on('display_correct_answer', async function(answer) {
+		for (var i = 0; i < 5; i++) {
+			$('#opt_'+answer).parentsUntil('.answ', '.answ_inside').addClass('answ_true');
+			await sleep(150);
+			$('.answ_inside').removeClass('answ_true');
+			await sleep(150);
+		}
+		$('#opt_'+answer).parentsUntil('.answ', '.answ_inside').addClass('answ_true');
+	});
+
+	socket.on('winnings', function(prize) {
+		$('#quest-row').css('display', 'none');
+		$('#winnings-row').css('display', 'block');
+		$('#winnings-text').text(prize);
+	});
+
+	socket.on('setup_next_question', function(question_number) {
+		$('#winnings-row').css('display', 'none');
+		if(question_number < 15)
+		{
+			$('.answ_inside').removeClass('answ_true').removeClass('answ_selected');
+			$('.answ').removeClass('removed-5050');
+			$('#question').text('');
+			$('#opt_0').text('');
+			$('#opt_1').text('');
+			$('#opt_2').text('');
+			$('#opt_3').text('');
+			$('#quest-row').css('display', 'block');
+		}
+	});
+
+	socket.on('clear_question', function() {
+		$('.answ_inside').removeClass('answ_true').removeClass('answ_selected');
+		$('.answ').removeClass('removed-5050');
+		$('#question').text('');
+		$('#opt_0').text('');
+		$('#opt_1').text('');
+		$('#opt_2').text('');
+		$('#opt_3').text('');
+	});
+
+
+
+
+	// End.js
+
+	socket.on('game_over', function(prize) {
+		$('#quest-row').css('display', 'none');
+		$('#game-over-row').css('display', 'block');
+		$('#prize-text').text(prize);
+		$('#background').addClass('bg-3');
+	});
+
+	socket.on('win', function(name) {
+		$('#quest-row').css('display', 'none');
+		$('#win-row').css('display', 'block');
+		$('#mprize-text').text(name.toUpperCase());
+		$('#background').addClass('bg-3');
+	});
+
+	socket.on('play_again', function() {
+		$('#win-row').css('display', 'none');
+		$('#game-over-row').css('display', 'none');
+		$('.l-5050').removeClass('used');
+		$('.l-phone').removeClass('used');
+		$('.l-audience').removeClass('used');
+		$('.ladder tr').removeClass('current');
+		$('.answ').removeClass('ahov');
+		$('#start-row .answ').addClass('ahov');
+		$('#phone-text').text('Ringing...');
+		$('#clock').attr('src', 'assets/images/clock.png');
+		$('#phone-dismiss').removeClass('enabled');
+		$('#audience-dismiss').removeClass('enabled');
+		$('#audience-0').text('');
+		$('#audience-1').text('');
+		$('#audience-2').text('');
+		$('#audience-3').text('');
+
+		var canvas = document.getElementById("audience-canvas");
+		var ctx = canvas.getContext("2d");
+		ctx.clearRect(0,0,303,378);
+	});
+
+
+
+
+	// Lifelines.js
+
+	socket.on('select_5050', function(data) {
+		$('.l-5050').addClass('used');
+		for (var i = 0; i < 4; i++) {
+			if(i != data.answer && i != data.keep)
+			{
+				$('#opt_'+i).parentsUntil('.answ_row', '.answ').addClass('removed-5050').removeClass('ahov');
+			}
+		}
+	});
+
+	socket.on('select_phone', function() {
+		$('.l-phone').addClass('used');
+		$('.phone-block').css('display','block');
+		$('.normal-block').css('display','none');
+	});
+
+	socket.on('start_clock', function() {
+		$('#clock').attr('src', 'assets/images/clock.gif');
+		$('#phone-text').text('Thinking...');
+	});
+
+	socket.on('phone_response', function(txt) {
+		$('#phone-text').text(txt);
+	});
+
+	socket.on('dismiss_phone', function() {
+		$('.phone-block').css('display','none');
+		$('.normal-block').css('display','block');
+	});
+
+	socket.on('select_audience', function() {
+		$('.l-audience').addClass('used');
+		$('.audience-block').css('display','block');
+		$('.normal-block').css('display','none');
+	});
+
+	socket.on('draw_audience_graph', async function(votes) {
+		var canvas = document.getElementById("audience-canvas");
+		var ctx = canvas.getContext("2d");
+		ctx.globalCompositeOperation = 'source-over';
+
+		ctx.shadowBlur = 3;
+		ctx.shadowColor = "#2b88e7";
+		ctx.strokeStyle = "#2b88e7";
+		ctx.lineWidth = 2;
+		
+		for (var i = 1.5; i <= 376.5; i = i + 37.5)
+		{
+			ctx.moveTo(1.5, i);
+			ctx.lineTo(301.5, i);
+		}
+		for (var i = 1.5; i <= 301.5; i = i + 37.5)
+		{
+			ctx.moveTo(i, 1.5);
+			ctx.lineTo(i, 376.5);
+		}
+		ctx.stroke();
+
+		await sleep(6000);
+
+		for (var i = 0; i < 4; i++)
+		{
+			var pct = votes[i];
+			$('#audience-' + i).text(pct + "%");
+			var pos = 375 - Math.round((pct / 100) * 375);
+			var grd = ctx.createLinearGradient(0, 1 + pos, 0, 376);
+			grd.addColorStop(0, "#3ddbff");
+			grd.addColorStop(1, "#a45de0");
+			ctx.fillStyle = grd;
+			ctx.fillRect(13.75 + (i * 75), 1 + pos, 50.5, 376);
+		}
+	});
+
+	socket.on('dismiss_audience', function() {
+		$('.audience-block').css('display','none');
+		$('.normal-block').css('display','block');
+	});
+
+
+	// Sounds
+
+	socket.on('playsound', function(data) {
+		playsound(data.source, data.loop, data.release, data.attack, data.volume);
+	});
+
+	var phone_clock_music;
+
+	socket.on('loadsound_clock', function() {
+		phone_clock_music = new Pizzicato.Sound('assets/sounds/lifelines/phone-clock.ogg');
+		phone_clock_music.source = 'lifelines/phone-clock.ogg';
+		phone_clock_music.release = 0.4;
+		phone_clock_music.attack = 0.04;
+		phone_clock_music.loop = false;
+		phone_clock_music.volume = 0.5;
+	});
+
+	socket.on('playsound_clock', function() {
+		phone_clock_music.play();
+	});
+
+	socket.on('stopsound_clock', function() {
+		phone_clock_music.stop();
+	});
+
+	socket.on('stopsound', function(source) {
+		stopsound(piz[source]);
+	});
+
+	socket.on('stopsoundnow', function(source) {
+		piz[source].stop();
+	});
+
+
+
+
+	// Helper stuff
+
+	$(window).on("load", function() {
+		$('.loading').css('display','none');
+	});
+
+	function sleep(ms)
+	{
+	  return new Promise(resolve => setTimeout(resolve, ms));
+	}
+
+</script>
+
+</html>

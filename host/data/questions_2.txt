@@ -1,0 +1,338 @@
+c675**Which word is not preceded by 'red' to give the name of a bird?**Feather**Start**Wing**Poll**0
+c676**Which is an extinct bird that originated in New Zealand?**Boa**Coa**Moa**Toa**2
+c677**In which town is the National Fishing and Heritage Centre?**Truro**Grimsby**Dover**Canterbury**1
+c678**Which daily newspaper has the famous crusader logo?**Daily Mail**The Times**Daily Express**Independent**2
+c679**What connects an anchor in Birmingham, a rose in Sheffield and a castle in Edinburgh?**Georgian theatres**Hospitals**Shopping malls**Hallmarks**3
+c680**The 'Master Cutler' train ran originally between London and which other city?**Edinburgh**Bristol**Sheffield**Manchester**2
+c681**Which motorway links the two largest cities in the United Kingdom?**M10**M20**M30**M40**3
+c682**Which car manufacturer makes the A3, A4 and A6 models?**Saab**Audi**Mercedes**Nissan**1
+c683**In which town or city are the headquarters of Yorkshire Television?**Bradford**Ripon**Leeds**York**2
+c684**What is Corporal O'Reilly's nickname in 'M*A*S*H'?**Sonar**Radar**Big Ears**Periscope**1
+c685**In 'The Simpsons', what sort of animal is Itchy?**Mouse**Cat**Flea**Dog**0
+c686**Which unintelligible kilted Scotsman was portrayed by Russ Abbot?**M.C. Hamish**C.U. Jimmy**R.U. Archie**O.K. Willie**1
+c687**Which of these is a Scottish rugby union club?**Gala**Fair**Festival**Fête**0
+c688**What nationality is the tennis player Alex Corretja?**Peruvian**Chilean**Brazilian**Spanish**3
+c689**Which sport is played by the Edmonton Oilers?**Basketball**Baseball**American football**Ice hockey**3
+c690**Which sport uses the Christmas Tree starting system?**Formula 1**Motocross**Drag racing**Car rallying**2
+c691**Which Formula 1 racing team has won the most Constructor's titles?**Williams**Ferrari**Lotus**McLaren**1
+c692**Which football club had the first all-foreign starting line-up in the English Premiership?**Arsenal**Manchester United**Liverpool**Chelsea**3
+c693**Which cricketing twins played their 100th test match together in 2001?**The Bedsers**The Waughs**The Hadlees**The Pollocks**1
+c694**Which human teeth are also known as the eye teeth?**Molars**Canines**Incisors**Premolars**1
+c695**To which organ of the body does the adjective adrenal relate?**Liver**Kidney**Heart**Lung**1
+c696**Which of these is used for measuring electrical current?**Anemometer**Ammeter**Odometer**Cryometer**1
+c697**Where on an aircraft is an aileron usually positioned?**Tail fin**Wing**Nose**Undercarriage**1
+c698**In geometry, what alternative name is given to the longest possible chord of a circle?**Tangent**Radius**Circumference**Diameter**3
+c699**In the context of Internet domains, if the UK is .uk and France is .fr, which country is .cn?**Canada**China**Congo**Croatia**1
+c700**Which name was not used by a monarch of the House of Hanover?**Victoria**Anne**George**William**1
+c701**Who was the last vice-president of the USA to become president?**Jimmy Carter**George Bush Snr**Gerald Ford**Richard Nixon**1
+c702**Which former British MP is a vice-president of the European Commission?**Chris Patten**Paddy Ashdown**John Major**Neil Kinnock**3
+c703**What nationality is the singer Frida, formerly of Abba?**Swedish**Danish**Finnish**Norwegian**3
+c704**In which decade did Fleetwood Mac release the albums 'Tusk' and 'Rumours'?**1960s**1970s**1980s**1990s**1
+c705**Complete this band's name, 'Blue ... Cult'?**Shrimp**Oyster**Winkle**Prawn**1
+c706**'Wonderwall Music' and 'Electronic Sound' were solo albums by which Beatle?**John**Paul**George**Ringo**2
+c707**What nationality was the composer Claude Debussy?**French**Swiss**Belgian**Spanish**0
+c708**In Greek mythology, which bird was given the hundred eyes of Argus after his death?**Eagle**Phoenix**Kingfisher**Peacock**3
+c709**Who created the character Huckleberry Finn?**Henry James**Jack London**Mark Twain**Jonathan Swift**2
+c710**Which of these would be given an ASA rating?**Photographic film**Chess player**Earthquake**Meteorite**0
+c711**From which part of a plant is liquorice obtained?**Leaf**Stem**Sap**Root**3
+c712**Melba sauce is named after what?**Opera singer**Football player**Film director**TV chef**0
+c713**Which spirit forms the base of a Tom Collins cocktail?**Vodka**Gin**Rum**Whisky**1
+c714**Which of these is sometimes known as the alligator pear?**Quince**Avocado**Aubergine**Passion fruit**1
+c715**Who defeated the French in the Battle of the Nile in 1798?**Wolfe**Nelson**Gordon**Wellington**1
+c716**At which London landmark was Anne Boleyn executed?**Charing Cross**Tower of London**Westminster Palace**Ludgate Hill**1
+c717**Which colour rose represented the House of Lancaster in the Wars of the Roses?**Red**White**Pink**Yellow**0
+c718**'In God We Trust' is the national motto of which country?**Canada**Australia**New Zealand**USA**3
+c719**In which English county is the port of Tilbury?**Essex**Kent**Suffolk**Norfolk**0
+c720**In which of these seaside resorts would you find the raised esplanade called The Hoe?**Portsmouth**Southampton**Plymouth**Bournemouth**2
+c721**In which county is Keele University?**Shropshire**Cheshire**Lincolnshire**Staffordshire**3
+c722**In which modern-day country is the site of the ancient city of Delphi?**Turkey**Greece**Egypt**Jordan**1
+c723**In which ocean are the Galápagos Islands?**Atlantic**Indian**Arctic**Pacific**3
+c724**Which is the most northeasterly country on the mainland of Africa?**Egypt**Morocco**Nigeria**Namibia**0
+c725**In which country is the Atacama Desert?**Mexico**Morocco**Chile**Mongolia**2
+c726**Toronto is the main port of which of the Great Lakes?**Superior**Michigan**Huron**Ontario**3
+c727**Which of the cardinal points of the compass does not prefix the name of a state of the USA?**North**South**East**West**2
+c728**In which US state are the Yosemite Falls?**California**Montana**Wyoming**Idaho**0
+c729**The name Matthew Flinders is particularly associated with the exploration of which continent?**Africa**Antarctica**Australia**Asia**2
+c730**Of which country is Phnom Penh the capital?**Vietnam**Thailand**Cambodia**Malaysia**2
+c731**In Spain, what type of building is a plaza de toros?**Church**Bullring**Moorish palace**Opera house**1
+c732**Which country's national flag provided the symbol for the Red Cross?**France**Italy**Belgium**Switzerland**3
+c733**Who plays the lead in 'The Sorcerer's Apprentice' from Disney's 'Fantasia'?**Pluto**Goofy**Donald Duck**Mickey Mouse**3
+c734**What word precedes 'Warriors', 'Master' and 'Child' in the subtitles of three Freddy Krueger films?**Phantom**Dream**Ghost**Spirit**1
+c735**What is the name of the cow who appeared in a large number of Mickey Mouse cartoons?**Clovis**Clarabelle**Clover**Chloey**1
+c736**Which British actress stars as Elizabeth Swann in the 2003 film 'Pirates of the Caribbean'?**Kate Winslet**Emma Thompson**Keira Knightley**Rachel Weisz**2
+c737**What is the name of the character played by Michael Douglas in the film 'Falling Down'?**D-Fens**O-Fens**A-Fens**N-Fens**0
+c738**Who stars in the 2002 film 'Gangs of New York'?**Brad Pitt**Matt Damon**Tom Hanks**Leonardo DiCaprio**3
+c739**Who played the title role in the 1973 film 'Serpico'?**Al Pacino**Jack Nicholson**Dustin Hoffman**Warren Beatty**0
+c740**Which of the following features heavily on BBC's Radio 7?**Pop music**Sport**News**Comedy**3
+c741**Who shouts to attract customers to a sideshow?**Whistler**Barker**Growler**Hawker**1
+c742**Vesper is an archaic term for which time of day?**Morning**Evening**Noon**Night**1
+c743**In which of these TV shows does Tommy Walsh regularly appear?**Trading Up**Ground Force**House Invaders**Gardener's World**1
+c744**Which of these chemical elements is named after a Norse god?**Uranium**Neptunium**Osmium**Thorium**3
+c745**According to the adverts, which was the 'listening' bank?**Barclays**Lloyds**Midland**NatWest**2
+c746**Members of which branch of the British Army are nicknamed 'Redcaps'?**Life Guards**Military Police**Veterinary Corps**Royal Engineers**1
+c747**Which of these creatures is a gastropod?**Starfish**Squid**Snail**Centipede**2
+c748**Which fish has varieties called albacore, bluefin and yellowfin?**Trout**Cod**Sturgeon**Tuna**3
+c749**What kind of animal is a German Spitz?**Dog**Cat**Deer**Butterfly**0
+c750**Sea parrot is an alternative name for which bird?**Seagull**Kittiwake**Puffin**Heron**2
+c751**What name was given to the amicable separation of Slovakia and the Czech Republic?**Satin Split**Velvet Divorce**Silk Separation**Damask Parting**1
+c752**Which of these seaside resorts boasts Beachy Head as a tourist attraction?**Bournemouth**Eastbourne**Brighton**Portsmouth**1
+c753**Who composed the popular musical piece 'Boléro' in 1928?**Rossini**Satie**Liszt**Ravel**3
+c754**Which great commander won the Battle of Austerlitz?**Marlborough**Duke of Wellington**Charlemagne**Napoleon Bonaparte**3
+c755**Which prison is situated in Parkhurst Road, London?**Holloway**Parkhurst**Belmarsh**Brixton**0
+c756**What is the UK equivalent of the CIA in the United States?**SAS**MI5**CND**MI6**3
+c757**By what alternative name is Bristol airport known?**Ludgate**Lychgate**Lulsgate**Langate**2
+c758**Which of these is a road crossing designed especially for cyclists?**Pelican**Toucan**Puffin**Albatross**1
+c759**Which of these programmes starred Robert Downey Jr?**Friends**Cheers**The Sopranos**Ally McBeal**3
+c760**The song 'Bhangra Knights vs Husan' was featured on a TV commercial for which car?**Ford Focus**Peugeot 206**Skoda Felicia**VW Passat**1
+c761**What are Captain Hunnicut's first two initials in the TV series 'M*A*S*H'?**H H**C Q**D D**B J**3
+c762**Which character was played by Victoria Wood in 'dinnerladies'?**Doreen**Sheila**Brenda**Maureen**2
+c763**When does the University Boat Race usually take place?**March/April**April/May**May/June**June/July**0
+c764**What is the name of Florida's baseball team?**Caimans**Sharks**Marlins**Dolphins**2
+c765**What does a normal motorbike have that a speedway bike does not?**Fuel tank**Brakes**Exhaust**Mudguard**1
+c766**Which goalkeeper is England's most capped footballer?**Ray Clemence**David Seaman**Gordon Banks**Peter Shilton**3
+c767**Which award did the England cricketer Alec Stewart receive in the 2003 Birthday Honours List?**MBE**OBE**CBE**KG**1
+c768**Which athletics event is the longest distance in which competitors stay in their own lanes?**100m**200m**400m**800m**2
+c769**What lies at the centre of a heliocentric model of the solar system?**Earth**Sun**Moon**North star**1
+c770**Which queen was called 'Gloriana'?**Victoria**Mary I**Anne**Elizabeth I**3
+c771**The speedwell is a type of what?**Motorbike**Flowering plant**Car**Aircraft**1
+c772**Citrus reticulata is the botanical name for which fruit?**Satsuma**Melon**Grapefruit**Passion fruit**0
+c773**What were awarded to the Beatles in 1965?**OBEs**MBEs**Emmys**Baftas**1
+c774**Who went on a 'Blonde Ambition' tour in 1990?**Blondie**Cher**Annie Lennox**Madonna**3
+c775**Which of these is not a member of S Club Juniors?**Aaron**Calvin**Frankie**Eddie**3
+c776**The Smurfs came from which country?**Sweden**Belgium**France**Denmark**1
+c777**The reputed last words of which famous composer were 'I shall hear in heaven'?**Wagner**Mozart**Albinoni**Beethoven**3
+c778**The poet laureate Ted Hughes was married to which of his American contemporaries?**Marianne Moore**Anne Sexton**Sylvia Plath**Amy Clampitt**2
+c779**Which actor's father was a Poet Laureate?**Ewan McGregor**Hugh Grant**Daniel Day-Lewis**Jeremy Irons**2
+c780**Which of these novels is not written by Charles Dickens?**Barnaby Rudge**The Chimes**Little Dorrit**The Fancy**3
+c781**Complete the title of the travel book by Tony Hawks, 'Around Ireland with a ...'?**Cooker**Barbecue**Fridge**Boiler**2
+c782**In which city are the main headquarters of De Montfort University?**Nottingham**Leicester**Derby**Stoke-on-Trent**1
+c783**In which field was Josiah Spode a famous name?**Architecture**Sculpture**Music**Pottery**3
+c784**What is the main alcoholic constituent of a Manhattan cocktail?**Whisky**Rum**Gin**Vodka**0
+c785**What type of fruit is a Laxton's Superb?**Pear**Apple**Cherry**Plum**1
+c786**The name of which famous liqueur is Italian for 'witch'?**Sambuca**Strega**Grappa**Amaretto**1
+c787**A specialty of Switzerland, of what is raclette a type?**Cheese fondue**Sweet white wine**Breaded escalope**Cured meat**0
+c788**Which drink is not aniseed flavoured?**Amaretto**Pastis**Raki**Ricard**0
+c789**What relation was Elizabeth I to Mary, Queen of Scots?**Mother**Sister**Half-sister**Cousin**3
+c790**The full name of which country is preceded by 'The Hashemite Kingdom of ...'?**Egypt**Syria**Jordan**Saudi Arabia**2
+c791**Of which Balkan country is Sarajevo the capital?**Croatia**Macedonia**Bosnia-Herzegovina**Albania**2
+c792**Which European capital city was previously known as Christiana?**Stockholm**Helsinki**Oslo**Copenhagen**2
+c793**Of which US state is Juneau the capital?**Alaska**Louisiana**Wisconsin**South Dakota**0
+c794**Which island was originally named after the Spanish word for 'pelican'?**Alcatraz**Barbados**Cuba**Sardinia**0
+c795**Which European river flows through Lake Constance?**Seine**Rhine**Loire**Elbe**1
+c796**In terms of area, which is the largest public square in the world?**Times Square**Red Square**Tiananmen Square**Trafalgar Square**2
+c797**Of which Asian country is Islamabad the capital?**India**Pakistan**Bangladesh**Nepal**1
+c798**Which rapper stars as Freddie Harris in 'Halloween Resurrection'?**Chuck D**Snoop Dogg**Busta Rhymes**Eminem**2
+c799**Whose film, 'Once Upon a time in Mexico', premiered at the 60th Venice Film Festival in 2003?**Sean Penn**Johnny Depp**Leo DiCaprio**Ben Affleck**1
+c800**Who was Ben Stiller's male model rival in the film 'Zoolander'?**Rapunzel**Hansel**Noddy**Rumpelstiltskin**1
+c801**In Ben Stiller's film 'Zoolander', what is the title character's line of work?**Plastic surgeon**Male model**Landscape gardener**Animal rescue**1
+c802**What was the subtitle of the second 'Naked Gun' film?**The Scent of Dread**The Smell of Fear**The Hum of Fright**The Reek of Terror**1
+c803**The play 'Charley's Aunt' would be classified as a ...?**Satire**Pastiche**Revue**Farce**3
+c804**Which play by Nell Dunn concerns five women and a bathhouse?**Boiling**Washing**Soaking**Steaming**3
+c805**Which musical, with lyrics by Ben Elton, opened in London in 2000?**The Pajama Game**City of Angels**The Beautiful Game**Chicago**2
+c806**Which company was the target of a hostile $66 billion takeover bid in February 2004?**Warner Brothers**MGM**Disney**Miramax**2
+c807**Which of these means the finest quality of diamond or other precious stone?**First water**First cut**First earth**First degree**0
+c808**A ship known as a ULCC would usually carry which commodity?**Wheat**Coal**Torpedoes**Oil**3
+c809**Which former African dictator died in Saudi Arabia in August 2003?**Robert Mugabe**Idi Amin**Milton Obote**Bokassa**1
+c810**Which was the world's first credit card?**Barclaycard**American Express**Diners Club**Mastercard**2
+c811**The town of Kidderminster is mainly associated with which of these?**Motorcars**Bricks**Pottery**Carpets**3
+c812**Which of these creatures belongs to the order Decapoda?**Lobster**Spider**Ant**Centipede**0
+c813**Which is North America's largest bird of prey?**California condor**Texas vulture**Arizona eagle**Alaska owl**0
+c814**On which Mediterranean island is the resort area of Costa Smerelda?**Sardinia**Corsica**Sicily**Majorca**0
+c815**In which county is Lowestoft?**Suffolk**Lincolnshire**Essex**Norfolk**0
+c816**In US jazz slang, which instrument was known as a 'liquorice stick'?**Saxophone**Trumpet**Clarinet**Piano**2
+c817**Which of these is a tuning wire found in early crystal radio sets?**Cat's whisker**Rabbit's whisker**Rat's whisker**Hare's whisker**0
+c818**The Diamante, Eclipse and Mirage are models made by which car manufacturer?**Nissan**Honda**Toyota**Mitsubishi**3
+c819**Into which county does the Peak District not extend?**Staffordshire**Nottinghamshire**Derbyshire**West Yorkshire**1
+c820**Steve Jones and Paul Cook were the two sensibly named members of which group?**Madness**The Sex Pistols**The Stranglers**The Verve**1
+c821**Who is the only woman to feature on the reverse of a current Bank of England bank note?**Boudicca**Elizabeth Fry**The Queen**Britannia**1
+c822**Who in 1964, was the first person other than royalty, to appear on a British postage stamp?**Churchill**Dickens**Shakespeare**Darwin**2
+c823**In which county is Gatwick Airport?**East Sussex**Surrey**West Sussex**Kent**2
+c824**What did QinetiQ 1 fail to do in September 2003?**Win at chess**Predict weather**Reach the USA**Go into space**3
+c825**Who were 'In Pieces' in a BBC sketch show of the 1990s?**Hale & Pace**Morecambe & Wise**Newman & Baddiel**Reeves & Mortimer**2
+c826**Which national coach was given a 4-year extension to his contract in June 2003?**David Graveney**Clive Woodward**Bertie Vogts**Mark Hughes**1
+c827**Which of these European capital cities has not hosted the Summer Olympics?**Stockholm**Amsterdam**Brussels**Helsinki**2
+c828**The Highland Games are held annually in which Scottish town?**Fort Augustus**Dornoch**Carnoustie**Braemar**3
+c829**Which veteran sports commentator retired in 2001?**Jim Laker**Dan Maskell**Bill McLaren**Murray Walker**3
+c830**In the world of English horse racing, which racecourse is informally known as 'Headquarters'?**Ascot**Cheltenham**Epsom**Newmarket**3
+c831**In golfing terms, what is another name for an albatross?**Double eagle**Eagle**Birdie**Bogey**0
+c832**Which is not an imperial unit of measurement?**Chain**Gallon**Hectare**Acre**2
+c833**The name of which infectious disease comes from the Italian meaning 'bad air'?**Pneumonia**Diphtheria**Malaria**Rubella**2
+c834**What is the postal abbreviation for the US state of Minnesota?**MA**MI**MN**MO**2
+c835**With what colour flame does sodium burn when heated in the flame of a Bunsen burner?**Red**Green**Violet**Yellow**3
+c836**According to the Bible, what is the traditional site of Jesus' ascension?**Mount Ararat**Mount of Olives**Mount Sinai**Mount Carmel**1
+c837**Which of these is a US rock band formed in the early 1980s?**Cholera**Rabies**Anthrax**BSE**2
+c838**What was the original name of The Boomtown Rats?**Nightlife Thugs**Lowlife Hooligans**Highlife Louts**Goodlife Rogues**0
+c839**What did Sharleen Spiteri of the band Texas name her new-born daughter in 2002?**Snowy Kyd Plain**Misty Kyd Heath**Breezy Kyd Field**Sunny Kyd Moor**1
+c840**What were the first names of Winnie-the-Pooh's creator A A Milne?**Andrew Algernon**Albert Antony**Alan Alexander**Arnold Alasdair**2
+c841**'Ode to a Nightingale' was written by which English poet?**Shelley**Keats**Byron**Wordsworth**1
+c842**What are crime writer Ms Cornwell's initials, creator of Chief Medical Examiner Dr Kay Scarpetta?**C D**P D**E C**D J**1
+c843**Which is a college at the University of Cambridge?**Christy**Clare**Cathryn**Carol**1
+c844**Which herb is also known as Chinese parsley?**Coriander**Basil**Chive**Fennel**0
+c845**What type of food is the Indian 'masala dosa'?**Filled pancake**Spicy fishcake**Potato salad**Ice cream**0
+c846**What part of a shoe is referred to as the vamp?**Heel**Sole**Toe end**Strap**2
+c847**Of which ailing fashion house was Tom Ford appointed design director in the 1990s?**Fiorucci**Calvin Klein**Gucci**Dolce & Gabbana**2
+c848**How many cards are dealt to each player at the start of a game of whist?**2**5**7**13**3
+c849**Which royal dynasty succeeded to the British throne in 1714?**Stuart**Orange**Hanover**Saxe-Coburg**2
+c850**Where was the US civil rights leader Martin Luther King assassinated in 1968?**Dallas**Memphis**Washington DC**Sacramento**1
+c851**Which London park is crossed by Rotten Row?**Hyde Park**St James' Park**Regent's Park**Kensington Gardens**0
+c852**What is the English name for what the Welsh call Ynys Môn?**Gower Peninsula**Snowdon**Bangor**Anglesey**3
+c853**On which popular holiday island are the dance clubs Privilege, Amnesia and Es Paradis?**Majorca**Cyprus**Corfu**Ibiza**3
+c854**The Dutch city of Hilversum is the centre of which industry?**Cheese**Television**Pottery**Bulbs**1
+c855**In area, which is the world's second largest continent?**Africa**North America**South America**Antarctica**0
+c856**Lake Balaton, the largest lake in central Europe, is in which country?**Hungary**Slovakia**Slovenia**Poland**0
+c857**On which sea does Romania have a coastline?**Mediterranean**Adriatic**Black**Caspian**2
+c858**Of all the 50 US state capitals, which is the only one to share its name with its state?**Oklahoma City**Kansas City**Montana City**Wyoming City**0
+c859**In which country is the Golden Temple of Amritsar?**Thailand**India**Turkey**Iraq**1
+c860**In which country are the Sinhalese the major ethnic group?**Somalia**Sri Lanka**Sudan**Iran**1
+c861**The name of which country is Urdu for 'pure nation'?**Bangladesh**Sri Lanka**Pakistan**Mauritius**2
+c862**Of which football club is Richard Attenborough life vice-president?**Arsenal**Chelsea**Tottenham Hotspur**West Ham United**1
+c863**Which of these won the 2004 Best British Film BAFTA?**In This World**Love Actually**Touching The Void**Cold Mountain**2
+c864**Which character is played by Antonio Banderas in the 1996 film 'Evita', starring Madonna?**Juan Perón**Che Guevara**Cipriano Reyes**Fidel Castro**1
+c865**Who plays Elle Woods in the 2001 comedy film 'Legally Blonde', and its 2003 sequel?**Cameron Diaz**Reese Witherspoon**Gwyneth Paltrow**Charlize Theron**1
+c866**In which of these films was James Bond not played by Sean Connery?**Dr No**Goldfinger**Octopussy**Thunderball**2
+c867**Which word is a synonym for 'obeisance'?**Obedience**Impudence**Deference**Flattery**2
+c868**Which publication celebrated 50 years in business in 2003?**Radio Times**Playboy**Daily Mirror**Which?**1
+c869**Which rank in the British Army is equivalent to a Captain in the Royal Navy?**Colonel**Major**Brigadier**Lieutenant**0
+c870**What sort of creature is Loxodonta africana?**Crocodile**Monkey**Elephant**Emu**2
+c871**Who is the hero of the video game series 'Metal Gear Solid'?**Fortune**Vamp**Solid Snake**Fatman**2
+c872**From which of these would you not expect to get wool?**Cheviot**Charolais**Merino**Rambouillet**1
+c873**What was the name of the punk rocker Sid Vicious's girlfriend?**Nanette**Norah**Nikki**Nancy**3
+c874**From which city did the 1980s supergroup ABC come?**Manchester**Sheffield**Stoke**Liverpool**1
+c875**Which film stars Johnny Depp as Ichabod Crane?**Ed Wood**Sleepy Hollow**The Source**Dead Man**1
+c876**Which of these was designed by Joseph Paxton?**Buckingham Palace**Royal Albert Hall**Crystal Palace**Westminster Abbey**2
+c877**A rail connection links Gatwick Airport to which mainline station?**Paddington**Waterloo**Victoria**King's Cross**2
+c878**Britain's first nuclear-powered submarine was 'HMS ...'?**Nautilus**Dreadnought**Enterprise**Vanguard**1
+c879**What is Ted Danson's profession in the US comedy TV series 'Becker'?**Barman**Doctor**Lawyer**Sports writer**1
+c880**The final episode of which TV show was entitled 'Goodbye, Farewell and Amen'?**M*A*S*H**Cheers**Happy Days**Ellen**0
+c881**Which year did Michael Schumacher not win the World Drivers' title?**1999**2000**2001**2002**0
+c882**What is a slang term for betting odds of 2/1?**Carpet**Bottle**Cockle**Hand**1
+c883**Who was the top scorer at the 2002 FIFA World Cup finals?**Rivaldo**Klose**Ziege**Ronaldo**3
+c884**Where, in the human body, are the latissimus dorsi muscles?**Chest**Arms**Back**Legs**2
+c885**Which character in the TV comedy 'Friends' shares their name with a moon of Saturn?**Monica**Chandler**Phoebe**Ross**2
+c886**Of which constellation is the Pole Star the brightest star?**Orion**Ursa Minor**Ursa Major**Cassiopeia**1
+c887**Nimrod, Noah's great grandson, was renowned for his skill as what?**Fisherman**Swordsman**Hunter**Horseman**2
+c888**Which is a publication by the Jehovah's Witnesses?**War Cry**Watchtower**Sentinel**The Key**1
+c889**In 1984, Michael Jackson's hair caught fire whilst he was filming an ad for which product?**Coca-Cola**Wheaties**Levi jeans**Pepsi**3
+c890**Who wrote the children's classic 'Nightbirds in Nantucket'?**A A Milne**Joan Aiken**Roald Dahl**Nina Bawden**1
+c891**What was the first name of the great-granddaughter of Charles Dickens, also an author?**Angela**Monica**Jennifer**Anna**1
+c892**In classical mythology, into what did Athena turn Arachne?**Swan**Snake**Stone**Spider**3
+c893**In 'Gulliver's Travels', which land is the kingdom of the giants?**Lilliput**Brobdingnag**Laputa**Lagado**1
+c894**Which is a college at Cambridge University?**Darwin**Newton**Faraday**Cavendish**0
+c895**Norway lobsters when cooked are known as ...?**Rock salmon**Bombay duck**Scampi**Quenelles**2
+c896**In which country did the liqueur Tia Maria originate?**Jamaica**Cuba**Portugal**Brazil**0
+c897**How many counters does each player have at the start of a game of backgammon?**10**12**15**20**2
+c898**Which explorer led the Nimrod expedition in 1908?**Scott**Shackleton**Livingstone**Burton**1
+c899**In ancient Persia, what was a magus?**Teacher**Soothsayer**Warlord**Priest**3
+c900**Which century was known as the 'Age of Reason' in western Europe?**16th**18th**17th**20th**1
+c901**Which city is served by St David's railway station?**Swansea**Edinburgh**Exeter**Canterbury**2
+c902**Which county does not border Derbyshire?**Shropshire**Staffordshire**Cheshire**Leicestershire**0
+c903**Which European capital city is the nearest to its country's mainland geographical centre?**Oslo**Madrid**Berlin**Dublin**1
+c904**What are the berg, the bise and the bora?**Whirlpools**Wastelands**Waterfalls**Winds**3
+c905**Pinsk and Minsk are cities in which east European country?**Latvia**Belarus**Poland**Estonia**1
+c906**In which African country is the Serengeti National Park?**Tanzania**Sudan**Cameroon**Zimbabwe**0
+c907**Which US state is sometimes known as the 'Heart of Dixie'?**Alabama**Kentucky**Tennessee**Louisiana**0
+c908**Of which US state is Salem the capital?**Oregon**Utah**Delaware**Massachusetts**0
+c909**What is the meaning of Uluru, the Aboriginal name for Ayers Rock?**Great pebble**Giant snake**Large turtle**Big table**0
+c910**Which real-life bank robber did Roger Daltrey play in a 1980 film?**Ronnie Biggs**Reggie Kray**John McVicar**Kenneth Noye**2
+c911**In which country is the majority of the action of 'Rambo III' set?**Russia**Thailand**Afghanistan**Azerbaijan**2
+c912**The word 'pettifogger' is sometimes used to describe which of the following?**Lawyer**Doctor**Accountant**Sailor**0
+c913**Where in Spain did a new Picasso museum open in 2003?**Marbella**Malaga**Nerja**Fuengirola**1
+c914**Which racing driver survived a 180 mph crash on the eve of the 2003 Monaco Formula 1 Grand Prix?**Fernando Alonso**Jarno Trulli**Olivier Panis**Jenson Button**3
+c915**By what name was the city of St Petersburg known between 1924-1991?**Stalingrad**Petrograd**Nizhniy Novgorod**Leningrad**3
+c916**Which Russian novelist wrote 'The Gulag Archipelago'?**Pushkin**Pasternak**Tolstoy**Solzhenitsyn**3
+c917**Whose facial features were used as the basis for the cartoon character of Aladdin?**Leo DiCaprio**Tom Cruise**Jude Law**Robin Williams**1
+c918**The Royal Air Force Museum is situated on the site of which former airfield?**Northolt**Hendon**Biggin Hill**Uxbridge**1
+c919**Whose cartoon companion was called Baba Looey?**Batfink**Quick Draw McGraw**Magilla Gorilla**Atom Ant**1
+c920**In 'Star Trek: the Next Generation', what was created by Dr Noonien Soong?**Crystalline Entity**Terak Nor**Biogenic weaponry**Lore**3
+c921**Which of these is owned by the Jupiter Mining Corporation?**Spindrift**Red Dwarf**Voyager**Nostromo**1
+c922**By winning the Hungarian Grand Prix in 2003, who became the youngest ever winner of an F1 race?**Jarno Trulli**Fernando Alonso**Ralph Firman**Justin Wilson**1
+c923**Which of these Australian cricketers never lost a series as captain?**Steve Waugh**Don Bradman**Greg Chappell**Allan Border**1
+c924**Singultus is the medical term for what?**Sneeze**Cough**Yawn**Hiccup**3
+c925**Who is the president of the Save the Children Fund?**Princess Royal**Prince Edward**Prince Charles**Prince William**0
+c926**Which member of the Royal Family was born in MCMXLVIII?**Prince Charles**Princess Anne**Prince Andrew**Prince Edward**0
+c927**In the Christian calender, what is the Sunday before Lent called?**Quinquennia**Quintessence**Quintillion**Quinquagesima**3
+c928**Which US energy giant was at the centre of a political storm early in 2002?**Imron**Emron**Enron**Argon**2
+c929**Hawley Harvey were the first names of which infamous person?**Lord Haw-Haw**Dr Crippen**The Black Panther**Yorkshire Ripper**1
+c930**Steve Tyler is the lead vocalist with which US rock band?**Aerosmith**ZZ Top**Metallica**Alcatraz**0
+c931**Who was the first Englishman to be awarded the Nobel Prize for literature?**Walter de la Mare**H G Wells**Sinclair Lewis**Rudyard Kipling**3
+c932**Which Scottish writer was created the first Baron Tweedsmuir?**Robert L Stevenson**John Buchan**Walter Scott**Compton Mackenzie**1
+c933**How many standard-sized champagne bottles does a jeroboam hold?**Two**Four**Six**Eight**1
+c934**What is the main ingredient of the Turkish drink 'ayran'?**Aniseed**Coffee**Yoghurt**Date**2
+c935**In which city was the first GAP store founded in the 1960s?**New York**San Francisco**Los Angeles**Boston**1
+c936**Who was the last Roman Catholic monarch of Britain?**Victoria**Elizabeth I**George I**James II**3
+c937**In which country was the explorer John Cabot born?**Spain**England**Portugal**Italy**3
+c938**Which of these castles is on the Isle of Wight?**Carisbrooke**Castle Howard**Castle Drogo**Leeds**0
+c939**Of which Spanish region is Pamplona the capital?**Galicía**Aragón**Navarra**La Rioja**2
+c940**Which of these capital cities stands at the mouth of the River Plate?**Lima**Brasilia**Montevideo**Quito**2
+c941**Which city in March 2003, introduced a total ban on smoking in bars, cafes and restaurants?**Munich**Stockholm**New York**Oslo**2
+c942**Which note ceased to be legal tender in the UK on July 31st 2003?**Elgar £20**Houblon £50**Stephenson £5**Dickens £10**3
+c943**In which country does 1 colón equal 100 centimos?**Brazil**Mexico**Colombia**Costa Rica**3
+c944**Who said Hollywood was a place 'where they pay you $50,000 for a kiss and 50 cents for your soul'?**Marilyn Monroe**Mae West**Bette Davis**Lana Turner**0
+c945**In which of the following did Ewan McGregor make his big screen debut?**Being Human**Shallow Grave**Trainspotting**Blue Juice**0
+c946**Which character is played by Bruce Lee in the martial arts movie 'Enter the Dragon'?**Bruce**Lee**Roper**Han**1
+c947**Where did Elia Kazan found his Actor's Studio in 1947?**New York**Los Angeles**Chicago**London**0
+c948**Who was George Clooney's famous singer and actress aunt?**Diana**Lilian**Sandra**Rosemary**3
+c949**In Australia and New Zealand, which boy's name means 'satisfactory'?**Ben**Jack**Jake**Mick**2
+c950**To which of these colours does the word 'cerulean' relate?**Red**Yellow**White**Blue**3
+c951**The roadrunner, as made famous in the Warner Brothers cartoons, is a member of which bird family?**Eagle**Crow**Cuckoo**Grebe**2
+c952**Which of these countries does not have a rectangular flag?**Laos**China**Belgium**Nepal**3
+c953**What was the most chosen name for baby boys in England and Wales in 2003?**Jack**Joshua**James**Joseph**0
+c954**Which US international airport was originally referred to as Idlewild?**O'Hare**JFK**Logan**Newark**1
+c955**What was the title of the final episode of the TV comedy series 'The Young Ones'?**Summer Holiday**Bomb**Cliff**Big Job**0
+c956**Which of these was the real first name of the actor Telly Savalas?**Aristotle**Plato**Socrates**Epicurus**0
+c957**Which animals complete the name of the Castleford rugby league club?**Lions**Tigers**Leopards**Cheetahs**1
+c958**Which vitamin is especially important for the formation of collagen?**B**A**D**C**3
+c959**The bishop of which diocese signs himself 'Petriburg'?**Peterborough**Portsmouth**Plymouth**Preston**0
+c960**In which country did the post of Ombudsman originate?**The Netherlands**UK**Sweden**Austria**2
+c961**Eglantine is a species of which plant?**Ivy**Hollyhock**Rose**Iris**2
+c962**Who won the 2003 MTV Video award for best pop video?**Johnny Cash**Christina Aguilera**Justin Timberlake**Missy Elliott**2
+c963**Who wrote the cult novel 'Generation X'?**Jay McInerney**Douglas Coupland**Bret Easton Ellis**Will Self**1
+c964**Which of these French wine regions produces the famous Châteauneuf-du-Pape?**Bordeaux**Burgundy**Loire Valley**Rhône Valley**2
+c965**Who was the first Roman Catholic president of the USA?**Jimmy Carter**Bill Clinton**Harry S Truman**J F Kennedy**3
+c966**Which textured vegetable protein shares its name with a small village in Leicestershire?**Tofu**Soya**Cadeby**Quorn**3
+c967**The river Forth rises on the slopes of which Scottish peak?**Ben Nevis**Ben Lomond**Ben Macdui**Ben More**1
+c968**In which European country are the Cantabrian Mountains?**France**Italy**Spain**Greece**2
+c969**The Parthenon in Athens is dedicated to which Greek goddess?**Demeter**Aphrodite**Artemis**Athene**3
+c970**In which country is the city of Mandalay?**Singapore**Pakistan**Myanmar**India**2
+c971**Words from which country's national anthem appear around the edge of a £1 coin?**Scotland**Wales**UK**Ireland**1
+c972**In which district of the city is the 2002 film 'Gangs of New York' set?**The Bronx**Manhattan**Brooklyn**Queens**1
+c973**In a 2003 'Broadcast' magazine Rich List, who came top as the highest-earning TV celebrity?**Chris Evans**Simon Cowell**Jamie Oliver**Jasper Carrott**1
+c974**What amount is awarded to the winner of art's annual Turner Prize?**£5,000**£20,000**£50,000**£100,000**2
+c975**After whom are the nursing services named for both the British Army and Royal Navy?**Queen Alexandra**Princess Mary**Princess Margaret**Queen Mary**0
+c976**What type of insect is a True Lover's Knot?**Butterfly**Beetle**Moth**Dragonfly**2
+c977**Which Australian creature takes its name from the Aboriginal word for 'no drink'?**Kookaburra**Kangaroo**Koala**Dingo**2
+c978**Taking the post in 2004, Lesley Douglas is the new controller of what?**BBC Radio 2**The Royal Mint**London Underground**The National Trust**0
+c979**Which of these was originally used in Cromwellian times to describe a royalist or non-conformist?**Agent provocateur**Delinquent**Madcap**Agitator**1
+c980**Which TV series was based on Martin Caidin's book 'Cyborg'?**The $6,000,000 Man**The X-Files**Airwolf**ALF**0
+c981**By what title do the Bajorans refer to Benjamin Sisko in TV's 'Star Trek: Deep Space 9'?**Guider**Emissary**Prophet**Anointed**1
+c982**In which of the following does the cartoon character Spongebob  Squarepants live?**Bikini Bottom**Atomic Atoll**Lilo Lagoon**Coral Canyon**0
+c983**Where were the 2003 World Rowing championships held?**Brussels**Milan**Paris**Cologne**1
+c984**Which of these US generals competed at the 1912 Olympics in the modern pentathlon?**Bradley**Eisenhower**Patton**MacArthur**2
+c985**What is the title of Tony Adams' autobiography?**Addicted**Driven**Hooked**Committed**0
+c986**Which everyday object was designed in 1896 by Brian Gamlin of Bury?**Traffic cone**Dartboard**London tube map**Vacuum flask**1
+c987**From which country is the athlete Maria Mutola, who won her eighth world title in Paris in 2003?**Ethiopia**Trinidad**Mozambique**Senegal**2
+c988**V=IR is the basic formula for whose law of electricity?**Watt**Ohm**Faraday**Volta**1
+c989**Which was not a geological period in the Palaeozoic era?**Cambrian**Devonian**Silurian**Hibernian**3
+c990**What nickname was given to the singer Alison Moyet by her father?**Wilf**Alf**Fred**Merv**1
+c991**What was the real surname of the author Nevil Shute?**Norway**Sweden**Denmark**Finland**0
+c992**Which of these would you add to a cocktail called a Pink Lady?**Egg white**Peach juice**Mint leaves**Sprig of celery**0
+c993**Which is the oldest cathedral building in England?**Ripon**Hereford**Salisbury**York**0
+c994**Alnwick Castle is the stately home of the Dukes of where?**Sutherland**Somerset**Northumberland**Norfolk**2
+c995**Which of the following co-hosted the first live televised Oscars ceremony in 1953?**Bob Hope**Bing Crosby**Danny Kaye**Fred Astaire**0
+c996**Which film festival celebrated its 60th anniversary in 2003?**Venice**London**Berlin**Cannes**0
+c997**How is Jervis Pendleton, from the novel 'Daddy-Long-Legs' by Jean Webster, otherwise known?**Mr Smith**Mr Jones**Mr Green**Mr Black**0
+c998**In which sport is the Westchester Cup competed for?**Polo**Croquet**Yachting**Harness racing**0
+c999**Which of Henry VIII's six wives lived at Sudeley Castle in Gloucestershire?**Katherine Parr**Anne of Cleves**Jane Seymour**Anne Boleyn**0
+c1000**Which sport was originally called 'mintonette'?**Basketball**Badminton**Volleyball**Curling**2
+c1001**In sumo wrestling, what is the dohyo?**Referee**Code of practice**Champion**Ring**3
+c1002**In which sport is the Sam Maguire Cup annually contested?**Ice hockey**Gaelic football**Curling**Bowls**1
+c1003**Which computer company was founded in 1976 by the Americans Steve Jobs and Steve Wozniak?**Dell**Apple**Hewlett Packard**Compaq**1
+c1004**Who has not won the Eurovision Song Contest for Ireland?**Linda Martin**Eimar Quinn**Charlotte Neilsen**Niamh Kavanagh**2
+c1005**Which writer of popular fiction shares his name with the inventor of the liquid-fuel rocket?**John Grisham**Robert Goddard**Tom Clancy**James Patterson**1
+c1006**In which publication did Ian Fleming's 'On Her Majesty's Secret Service' first appear?**Reader's Digest**The Observer**Playboy**Fantastic Tales**2
+c1007**'Project Bluebook' was a US operation to investigate which of these?**Screenwriters**Corrupt policemen**Nerve agents**UFOs**3
+c1008**The siege of which town was the last major battle of the American Revolution?**Yorktown**Boston**Lexington**Hartford**0
+c1009**To which group of Greek islands does Kalymnos belong?**Cyclades**Dodecanese**Ionian**Sporades**1
+c1010**How tall is the actor Verne Troyer, famous for his role as Mini-me in the Austin Powers films?**36 inches**32 inches**24 inches**35 inches**1
+c1011**Who auditioned for the role of James Bond in 1969 but was turned down for being too tall?**John Cleese**Peter Snow**Simon Dee**Christopher Lee**1
+c1012**Near which islands did the oil tanker Braer discharge its cargo in 1993?**Orkneys**Scilly Isles**Channel Islands**Shetlands**3

@@ -1,0 +1,337 @@
+c1**Which disease devastated livestock across the UK during 2001?**Hand-and-foot**Foot-in-mouth**Hand-to-mouth**Foot-and-mouth**3
+c2**Which of these kills its victims by constriction?**Andalucia**Anaconda**Andypandy**Annerobinson**1
+c3**Which of these might be used in underwater naval operations?**Frogmen**Newtmen**Toadmen**Tadpolemen**0
+c4**In the UK, VAT stands for value-added ...?**Transaction**Total**Tax**Trauma**2
+c5**What are you said to do to a habit when you break it?**Throw it**Punch it**Kick it**Eat it**2
+c6**Where do you proverbially wear your heart, if you show your true feelings?**On your collar**On your lapel**On your cuff**On your sleeve**3
+c7**What might an electrician lay?**Tables**Gables**Cables**Stables**2
+c8**What would a 'tattie picker' harvest?**Raspberries**Corn**Potatoes**Apples**2
+c9**Which of these means adequate space for moving in?**Elbow room**Foot rest**Ear hole**Knee lounge**0
+c10**How is a play on words commonly described?**Pan**Pin**Pen**Pun**3
+c11**Which colour is used as a term to describe an illegal market in rare goods?**Blue**Red**Black**White**2
+c12**Which character was first played by Arnold Schwarzenegger in a 1984 film?**The Demonstrator**The Instigator**The Investigator**The Terminator**3
+c13**Which of these would a film actor like to receive?**Oliver**Oscar**Oliphant**Osbert**1
+c14**In which country would you expect to be greeted with the word 'bonjour'?**Italy**France**Spain**Wales**1
+c15**What name is given to the person who traditionally attends the groom on his wedding day?**Best man**Top man**Old man**Poor man**0
+c16**Which word follows 'North' and 'South' to give the names of two continents?**Africa**America**Asia**Australia**1
+c17**Which country is not an island?**Madagascar**Cuba**Germany**Jamaica**2
+c18**Which is not the name of an English county?**Lancashire**Leicestershire**Liverpoolshire**Lincolnshire**2
+c19**Which of these is a fashionable district of London?**Bulgaria**Belgravia**Belgrade**Belgium**1
+c20**What name is given to a playing card with a single symbol on it?**Whizz**Hotshot**Ace**Star**2
+c21**What would you normally do with a beret?**Eat it**Play it**Sit on it**Wear it**3
+c22**Which of these is a tool for shaping and smoothing wood?**Train**Plane**Car**Bike**1
+c23**What do the Americans call what we call sweets?**Randy**Dandy**Sandy**Candy**3
+c24**Which of these is a spicy, Cajun chicken or seafood dish?**Gumbo**Dumbo**Bimbo**Rambo**0
+c25**What would you expect to see at the London Aquarium?**Flowers**Trees**Steam rollers**Fish**3
+c26**People who are in a similar unfavourable situation are said to be 'all in the same ...'?**Car**Plane**Boat**Tube**2
+c27**According to the old adage, how many lives does a cat have?**Five**Seven**Nine**Ten**2
+c28**Which of these is a keyboard instrument?**Harpsichord**Ripcord**Pyjama cord**Sashcord**0
+c29**The former punk singer John Lydon was known on stage as Johnny ...?**Horrid**Rotten**Nasty**Hateful**1
+c30**The name of which plant sounds like a greeting to 'Coronation Street's' Mrs Duckworth?**Hi mabel**G'day june**Wotcha di**Aloe vera**3
+c31**The Nativity is the story of whose birth?**Jesus Christ**Elvis Presley**Winston Churchill**John F Kennedy**0
+c32**How many moons orbit the Earth?**One**Two**Three**Four**0
+c33**By what abbreviation is a compact disc commonly known?**CD**COD**CDIS**COMPD**0
+c34**Which country shares a land border with the UK?**Portugal**Libya**Vietnam**Ireland**3
+c35**The star sign Aquarius is also known as what?**The Water-carrier**The Food-carrier**The Hod-carrier**The Bag-carrier**0
+c36**Which of these would be of most use if you wanted to play poker?**Bat & ball**Pack of cards**Swimming trunks**Horse**1
+c37**What are said to be 'down' when things are not going well?**Egg**Bacon**Chips**Beans**2
+c38**What name is given to a mound or ridge of windblown sand?**Drone**Dude**Dime**Dune**3
+c39**Which part of the human body encases many of the vital organs such as the heart, lungs and liver?**Head**Legs**Arms**Torso**3
+c40**Which of these is a weight category in professional boxing?**Welterweight**Swelterweight**Slaughterweight**Daughterweight**0
+c41**Who has the authority to change a ball during a football match?**Sky Sports**The home team**Alex Ferguson**The referee**3
+c42**If you are moving downhill over snow with a long runner attached to each foot, what are you doing?**Swimming**Skiing**Skateboarding**Showjumping**1
+c43**What sort of animal is Jess, who accompanies the TV character Postman Pat?**Dog**Horse**Cat**Mouse**2
+c44**A particular hazard for motorists is black ...?**Pudding**Ice**Holes**Mascara**1
+c45**Which 'Dallas' spin-off saw Gary Ewing arrive in a small Californian town?**Knots Patio**Knots Garage**Knots Porch**Knots Landing**3
+c46**Which is a US-made soap opera?**Johnson's Mere**Thompson's Pond**Dawson's Creek**Madison's Lake**2
+c47**Which of these is a discipline in both men's and women's gymnastics?**Floor exercises**Wall exercises**Ceiling exercises**Roof exercises**0
+c48**Which of the following do bowlers aim to hit during a game of cricket?**Posts**Hoop**Net**Stumps**3
+c49**Which of these applies to the shape of a soccer ball?**Conical**Cylindrical**Spherical**Oval**2
+c50**Which novel by Charles Dickens was made into a film in 2002?**Danny Dimeby**Nicholas Nickleby**Quentin Quarterby**Donald Dollarby**1
+c51**A 'cuppa' is an informal term for what?**Policeman**Cup of tea**2p coin**Smoked herring**1
+c52**What is the meaning of the colloquial expression 'in the bag'?**Almost certain**Newly bought**Freshly cooked**Recently stolen**0
+c53**Which activity would you most associate with a mole?**Burrowing**Climbing**Swimming**Flying**0
+c54**Which is not a type of antelope?**Gorilla**Gerenuk**Gemsbok**Gnu**0
+c55**Which is an alternative name for members of the Society of Friends?**Kellogg's**Special Ks**Quakers**Jordans**2
+c56**Which is another name for a short melodious tune?**Oxygen**Air**Nitrogen**Stratosphere**1
+c57**Which of these is a large woodwind instrument?**Buffoon**Pantaloon**Bassoon**Macaroon**2
+c58**In the nursery rhyme, who met a pieman?**Easy Eric**Plain Peter**Simple Simon**No Frills Fred**2
+c59**Which of these is a material often used to make floor mats?**Rush**Dash**Hustle**Bustle**0
+c60**In which of the following might food be stored?**Larder**Shed**Greenhouse**Garage**0
+c61**What is rioja a type of?**Bread**Vegetable**Wine**Nut**2
+c62**Germania was the Roman name for which modern-day European country?**France**Austria**Germany**Spain**2
+c63**What was the UK's top paying attraction of 2002?**London Nose**London Mouth**London Eye**London Ear**2
+c64**Which of these is a Scottish district council?**Inverchristopher**Inverclyde**Inverclint**Invercharles**1
+c65**In which town are the administrative headquarters of Kent?**Maidstone**Lasspebble**Girlrock**Missgravel**0
+c66**Which of these geographical features is a mountain?**Kilimanjaro**Danube**Amazon**Nile**0
+c67**Which word goes before 'States of America' to give the name of a country?**Joined**Agreed**United**Harmonious**2
+c68**Which was a famous group of high-kicking stage dancers?**Checkout Girls**Cashpoint Girls**Tiller Girls**Turnstile Girls**2
+c69**Which of these is a person who performs tricks that deceive the eye?**Illustrator**Illuminator**Illiterate**Illusionist**3
+c70**Which of the following words for a coat also describes the paper cover of a book?**Cagoule**Mackintosh**Jacket**Parka**2
+c71**What is hung over a horse's head for feeding?**Nosebag**Nosegay**Nosedive**Nosejob**0
+c72**Something mediocre can be described as 'no great ...'?**Shakes**Quivers**Wobbles**Trembles**0
+c73**What do you proverbially let down when behaving without reserve?**Shoulders**Elbows**Knees**Hair**3
+c74**Which is not a species of seal?**Elephant**Leopard**Three-legged**Grey**2
+c75**Which keyboard player was awarded the OBE in the 2003 Birthday Honours list?**Cools Belgium**Drools Luxembourg**Fools France**Jools Holland**3
+c76**Which show took place between 6th-9th March 2004 at the NEC, Birmingham?**Toffs**Cuffs**Crufts**Lifts**2
+c77**Harrison Ford announced in August 2003, that he would make a fourth film playing which role?**Nevada Morgan**Wyoming Williams**Indiana Jones**Montana Evans**2
+c78**August 16th 2003 was the 40th anniversary of which 'Great' robbery?**Hovercraft**Pushchair**Balloon**Train**3
+c79**Which member of the Royal Family celebrated his 19th birthday in September 2003?**Prince Edward**Prince Andrew**Prince Harry**Prince Charles**2
+c80**With which football club was David Beckham's name not linked in 2003?**Barcelona**Scunthorpe United**AC Milan**Real Madrid**1
+c81**Whose return to 'EastEnders' in 2004 sparked a 560 megawatt power surge on the national grid?**Filthy Fred**Smutty Sam**Grubby Gordon**Dirty Den**3
+c82**Which patron saint's day falls on 23rd April?**St Harry**St Albert**St George**St William**2
+c83**What is celebrated in Wales on 1st March?**Gareth Edwards Day**St David's Day**Tom Jones Day**Richard Burton Day**1
+c84**Which adjective applied to Friday 9th April in 2004?**Good**Bad**Ugly**Indifferent**0
+c85**Which of these is a popular form of music?**County & Eastern**Kingdom & Northern**Land & Southern**Country & Western**3
+c86**Which of these is a slang term for a mean person?**Cheapskate**Cheapshark**Cheapmackerel**Cheaphaddock**0
+c87**Which of these is a common term for a programme of physical exercises?**Stay able**Remain trim**Continue competent**Keep fit**3
+c88**What is the usual name for an establishment containing a lot of fruit machines?**Amusement arcade**Happy house**Fun folly**Hilarity hall**0
+c89**Which of these means displaying advertising posters in an unauthorised place?**Ant-posting**Bee-posting**Fly-posting**Wasp-posting**2
+c90**On which of these might you win a large amount of money?**National Flattery**National Lottery**National Battery**National Pottery**1
+c91**What kind of envelope has a transparent section through which the address can be seen?**Fanlight**Door**Sunroof**Window**3
+c92**Which of these is a type of beer?**Acid**Bitter**Tart**Sour**1
+c93**What is a woman said to do with her eyelashes when she is being flirtatious?**Litter**Platter**Flutter**Rotter**2
+c94**Which of these is an ice cream dessert?**Sundae**Mondae**Tuesdae**Wednesdae**0
+c95**Which term means replacing a telephone receiver at the end of a call?**Jump up**Hang up**Toss up**Play up**1
+c96**Which of these is a popular garden flower?**Busnation**Carnation**Trainnation**Planenation**1
+c97**Which of these describes something which causes stress or anxiety?**Knee-racking**Nerve-racking**Nodule-racking**Nose-racking**1
+c98**Which of these is a device often used in a séance?**Ironing board**Cheeseboard**Circuit board**Ouija board**3
+c99**Which of these is a child's playground game in which participants slap each other's hands?**Pat-a-bap**Pat-a-roll**Pat-a-biscuit**Pat-a-cake**3
+c100**Which of these is a term for a typically average man?**Joe Cole**Joe Bloggs**Joe Bugner**Joe Strummer**1
+c101**What is the name of the instrument panel in a car?**Chargeboard**Sprintboard**Dashboard**Jogboard**2
+c102**What type of protective headgear do motorcyclists wear?**Bash helmet**Crash helmet**Mash helmet**Flash helmet**1
+c103**In western films, what name is given to a gang of law enforcement officers?**Bossy**Mossy**Glossy**Posse**3
+c104**Which of these refers to an alcoholic drink served with ice?**Shingled**On the rocks**Pebbledashed**Stoned**1
+c105**Complete the title of the TV comedy drama, 'Auf Wiedersehen, ...'?**Sweetie**Darling**Angel**Pet**3
+c106**By what alternative name is Manchester International Airport sometimes known?**Ringmaster**Ringbark**Ringway**Ringside**2
+c107**Which is the title of a soap set in a rural Scottish community?**M1**Autobahn**High Road**Motorway**2
+c108**In which of these areas is the children's soap 'Grange Hill' set?**West Birmingham**South Humberside**East London**North Sheffield**2
+c109**In which TV series did Dennis Weaver play a cowboy cop in New York?**McRain**McDew**McFog**McCloud**3
+c110**Which TV programme would you most expect to see Jeremy Clarkson presenting?**Newsnight**Ground Force**Top Gear**Antiques Roadshow**2
+c111**The oche is a marker in which sport?**Polo**Darts**Tennis**Basketball**1
+c112**Which part of the body do bronchial infections mainly attack?**Eyes**Liver**Spleen**Lungs**3
+c113**Which of the following is not a geological period?**Jurassic**Palaeozoic**Triassic**Boracic**3
+c114**By what name is part of the constellation Ursa Major sometimes known?**The Big Flipper**The Big Gripper**The Big Dipper**The Big Tripper**2
+c115**Which is a famous rock group whose albums include 'Slippery When Wet' and 'New Jersey'?**Bon Jovi**Bon Idée**Bon Marché**Bon Bon**0
+c116**With which of these did Wham! have a UK Top 10 hit in 1984?**Last Christmas**Last New Year**Last Easter**Last Summer**0
+c117**In the title of a Stevie Wonder hit, he just 'Called to Say ...' what?**You owe me**You're dumped**I love you**I'm on the train**2
+c118**Which Irish rock band shares its name with an American spy plane?**U2**SR-71**F-111**C-130**0
+c119**Which of these is a type of drum?**Bear**Snare**Fair**Blair**1
+c120**What copy can be said to describe something identical?**Oxygen**Hydrogen**Nitrogen**Carbon**3
+c121**Which of these did Old King Cole not call for?**His fiddlers**A curry**His bowl**His pipe**1
+c122**Who sings for his supper in a nursery rhyme?**Freddie Folder**Chris Creaser**Peter Pleater**Tommy Tucker**3
+c123**Which is a chain of international hotels?**Four Tops**Four Pennies**Four Seasons**Four Posters**2
+c124**At which tourist attraction are the Corkscrew, Oblivion, Ripsaw and Nemesis rides?**Tower of London**Alton Towers**Bristol Zoo**Giant's Causeway**1
+c125**Which of these is a spicy Indian dish?**Spaghetti**Biriani**Bellini**Crostini**1
+c126**The name of which dish of small dumplings is the Italian for 'lumps'?**Tutti-frutti**Gnocchi**Pizza**Salami**1
+c127**A traditional Italian dish is spaghetti ...?**Roma**Bolognese**Firenze**Pisa**1
+c128**Which place is not associated with a type of cake?**Madeira**Middlesbrough**Eccles**Dundee**1
+c129**Which of these is a type of cured herring?**Floater**Bloater**Gloater**Eloper**1
+c130**In the world of video games, who has a brother called Luigi?**Mario**Benito**Carlo**Georgio**0
+c131**Which of the following is associated with the invention of the raincoat?**Edward Woollyhat**Charles Macintosh**Robert Jumper**Frank Waistcoat**1
+c132**Which of these is the US name for the French card game vingt-et-un?**Blackjack**Bluejack**Redjack**Greenjack**0
+c133**Which board game is known as 'checkers' in the USA?**Snakes & ladders**Backgammon**Draughts**Ludo**2
+c134**Which military hero has the same name as a hold used in wrestling?**Sherman**Nelson**Montgomery**Wellington**1
+c135**Which of these is a legendary British king who is said to have drawn a sword from a stone?**Eric**Albert**Ernie**Arthur**3
+c136**Which of these is a village in Somerset?**Brie**Emmental**Gorgonzola**Cheddar**3
+c137**Which organisation preserves monuments, buildings and areas of the countryside in England?**National Trust**National Debt**National Service**National Gallery**0
+c138**Which is not a real English county?**West Sussex**South Norfolk**North Yorkshire**East Sussex**1
+c139**Which country is not crossed by the Arctic Circle?**Norway**Finland**Greece**Sweden**2
+c140**The West Country is famous for which alcoholic drink?**Wine**Cider**Beer**Whisky**1
+c141**What name is given to a person who turns animal skins into leather?**Shilling**Quid**Tanner**Florin**2
+c142**Which metal lends its name to a US five-cent coin?**Iron**Zinc**Nickel**Tin**2
+c143**Which 1969 film won the Best Picture Oscar?**Midnight Cowboy**Noontime Apache**Twilight Cavalry**Morning Rancher**0
+c144**What nationality is the film star Sean Connery?**Irish**English**Welsh**Scottish**3
+c145**Which character is played by Verne Troyer in the 'Austin Powers' films?**Mini-Cooper**Mini-Mouse**Mini-Me**Mini-Skirt**2
+c146**Complete the title of the Oscar-nominated film starring Tom Cruise, 'The Last ...'?**Samurai**Ninja**Shogun**Geisha**0
+c147**In which film must a bus keep travelling at 50 miles per hour so that it does not explode?**Speed**Velocity**Tempo**Thrust**0
+c148**Which is a 1986 musical with lyrics by Tim Rice?**Ludo**Monopoly**Cluedo**Chess**3
+c149**Which of these is both a person who chooses to live alone, and a type of crab?**Hero**Hermit**Heretic**Herald**1
+c150**What term is used for a young man who takes part in rowdy and boorish group behaviour?**Beer brat**Whisky wideboy**Lager lout**Pub pig**2
+c151**Which of these is an obstruction built across a river?**Seer**Rear**Fear**Weir**3
+c152**Which of these is an adolescent romantic attachment?**Puppy love**Kitten love**Bunny love**Piggy love**0
+c153**Which of these is a slang term for 'excellent'?**Joker**Queen**Jack**Ace**3
+c154**What name is given to a heavy, metal-headed, spiked club?**Nutmeg**Mace**Saffron**Clove**1
+c155**An older person is sometimes described as 'long in the ...'?**Tooth**Eye**Hair**Nose**0
+c156**What do you proverbially 'make' at someone if you flirt with them?**Ears**Eyes**Teeth**Hands**1
+c157**According to the saying, which of these is 'a dish best served cold'?**Revenge**Cottage pie**Custard**Stew**0
+c158**To know the rudiments of a subject is to 'know your ...'?**ABC**HIJ**KLM**QRS**0
+c159**To adapt to something easily, is to 'take to it like a ... to water'?**Coot**Duck**Swan**Submarine**1
+c160**Something unfair or unsporting is said to be 'not ...'?**Tennis**Football**Cricket**Rugby**2
+c161**Which would not be awarded in the New Year's Honours List?**QBE**MBE**OBE**CBE**0
+c162**Which word describes a group of retail outlets with a common owner?**Chain**Fetter**Shackle**Bond**0
+c163**Which company markets 'sensual lingerie' and 'naughty novelties'?**Jane Winters**Mary Autumns**Ann Summers**Sadie Springs**2
+c164**Which of the following was an Irish figurative painter?**Francis Egg**Francis Sausage**Francis Bacon**Francis Bean**2
+c165**What does a hedgehog normally do when alarmed?**Roll into a ball**Burrow**Run in circles**Roar loudly**0
+c166**Which is a type of wading bird?**Winklenicker**Prawngrabber**Cocklenabber**Oystercatcher**3
+c167**Which of these is a butter substitute made with vegetable oils?**Margaret**Margarine**Margarita**Margate**1
+c168**Which low-cost airline was bought by Ryanair in 2003?**Hum**Buzz**Fizz**Bang**1
+c169**What did Jamie Oliver leave behind when he collected his MBE from the Queen in October 2003?**Trousers**Shirt**Tie**Shoes**2
+c170**Which is a 2003 comic-strip super-hero film?**The Lump**The Mass**The Hulk**The Hunk**2
+c171**Complete the title of the 2003 Disney release, 'Pirates of the ...'?**Black Sea**Atlantic**English Channel**Caribbean**3
+c172**Which country music legend, known as 'the man in black', died in September 2003?**Freddie Cheque**Tommy Card**Johnny Cash**Mickey Debit**2
+c173**In 2003, as what did Prince Harry work in his first three months in Australia?**Kangaroo**Socceroo**Hullabaloo**Jackaroo**3
+c174**Which of these countries did not host a Formula 1 Grand Prix race in 2003?**Monaco**France**Italy**Madagascar**3
+c175**Who won his sixth World Drivers' title in October 2003?**Michael Crawford**Michael Owen**Michael Barrymore**Michael Schumacher**3
+c176**In May 2003, London announced it would enter the race to host what event?**Tour de France**Edinburgh Festival**2012 Olympics**Super Bowl**2
+c177**Complete the title of the 2003 BAFTA-winning show, 'I'm a Celebrity: ...'?**Get My Agent**Get Me Out of Here**Get Out of My Way**Get Me a Drink**1
+c178**Prisoner FF8282 walked free from prison on 21st July 2003: by what name is he better known?**Lord Pikeman**Lord Gunner**Lord Rifleman**Lord Archer**3
+c179**In January 2003, 23-year-old Andrew Cooney became the youngest person to walk to where?**Cleethorpes**Filey**South Pole**Bridlington**2
+c180**Which of these non-elected people resigned from Downing Street in 2003?**Jackie Stewart**Patrick Stewart**Patrick Campbell**Alastair Campbell**3
+c181**Which famous cricketer was given a twelve-month ban in February 2003?**Shane Fenton**Shane MacGowan**Shane Warne**Shane Richie**2
+c182**Who was confirmed as the player-manager of Millwall FC in November 2003?**Dennis Clever**Dennis Sage**Dennis Wise**Dennis Smart**2
+c183**In 2003, whose 44-day stunt in London cost over £64,000 to police?**Tony Blair**David Blaine**Alastair Campbell**Charles Ingram**1
+c184**What was the first name of Miss Springfield, the singer who died in 1999?**Rusty**Crusty**Musty**Dusty**3
+c185**Damon Albarn is the lead singer with which group?**Smudge**Misty**Bleary**Blur**3
+c186**Which is not a recognized playing surface for tennis?**Grass**Linoleum**Clay**Cement**1
+c187**What are you said to bet when you are absolutely certain of something?**Bottom pound**Bottom dollar**Bottom euro**Bottom rupee**1
+c188**Which of the following are a type of close-fitting knee-length shorts?**Menorca shorts**Guernsey shorts**Bermuda shorts**Cyprus shorts**2
+c189**What word describes plants with thick fleshy leaves which store water?**Delicious**Sumptuous**Succulent**Scrumptious**2
+c190**Which of the following is a small sausage?**Maraschino**Chipolata**Risotto**Gazpacho**1
+c191**What term refers to replacing defective joints in masonry work?**Aiming**Staring**Pointing**Prodding**2
+c192**Which of these is a term meaning a match in bridge?**Pencil**Eraser**Rubber**Crayon**2
+c193**Which of these is a dessert of hot meringue and cold ice cream?**Fried Florida**Baked Alaska**Hot Hawaii**Curried Carolina**1
+c194**Representing money, what name is given to the gaming counters used in card games?**Chips**Crisps**Fries**Nachos**0
+c195**What is the collective term for actors appearing in a film or play?**Cast**Band**Group**Clique**0
+c196**Which of these is a carnivorous plant?**Mars anteater**Saturn spidernet**Pluto bugsnare**Venus flytrap**3
+c197**Which of these is true of filo pastry?**Very thin**Bright red**Does not cook**Made of apples**0
+c198**What are you said to break, when you make friends with a stranger?**The ice**The snow**The hail**The frost**0
+c199**Two very different things are said to be like 'chalk and ...'?**Chipmunks**Cheese**Chestnuts**Chopsticks**1
+c200**Which of these is a type of puzzle often found in newspapers?**Crossword**Madword**Angryword**Snappyword**0
+c201**Traditionally, people use their feet to extract juice from which fruit?**Pineapple**Cherry**Grape**Prickly pear**2
+c202**If a circus tightrope walker fell off his high wire, he would be most likely to land on what?**Safety match**Safety lamp**Safety net**Safety razor**2
+c203**With which activity is the phrase 'going, going, gone' most associated?**An auction**Gardening**Horse racing**Boxing**0
+c204**Who fought against the Cavaliers in the English Civil War?**Roundheads**Squareheads**Flatheads**Thickheads**0
+c205**Complete the title of the D H Lawrence novel, 'Lady Chatterley's ...'?**Lover**Dentist**Tennis coach**Overdraft**0
+c206**Where are the headquarters of the US Department of Defense?**The Triangle**The Rectangle**The Pentagon**The Dodecahedron**2
+c207**Which word means 'to go to a party uninvited'?**Windowlash**Gatecrash**Doorbash**Hatchmash**1
+c208**Which of these is a theory about the creation of the universe?**Big Bong**Big Bang**Big Ben**Big Bertha**1
+c209**According to the proverb, what 'keeps the doctor away'?**Apple a day**Melon a week**Orange a month**Banana a year**0
+c210**Lennox Lewis is a famous figure in which sport?**Horse racing**Tennis**Speedway**Boxing**3
+c211**Who is said to leave money in return for a child's tooth that has fallen out?**Dental gnome**Tusk elf**Tooth fairy**Fang pixie**2
+c212**What term describes a smaller-sized newspaper, containing more photos and less formal news?**Tabloid**Android**Steroid**Anthropoid**0
+c213**How is the Queensland and Northern Territories Aerial Service Limited more commonly known?**Roo Airways**Emu Airlines**Aussie Air**Qantas**3
+c214**Which of the following is most likely to run on caterpillar tracks?**Car**Train**Bulldozer**Bicycle**2
+c215**Which code is a set of rules and information concerning the use of public roads in the UK?**Morse code**Semaphore code**Penal code**Highway code**3
+c216**Which Channel 4 sitcom centred around a pair of rival Indian restaurants?**Madras Mornings**Dahl Dusks**Tandoori Nights**Aloo Afternoons**2
+c217**Which company makes the TV soap 'Neighbours'?**Archer**Grundy**Borchester**Ambridge**1
+c218**Which beer was advertised by Jack Dee on TV?**Fred Blogg's**Taff Jone's**John Smith's**Raj Patel's**2
+c219**What sort of woman was Lindsay Wagner in the US TV series?**Robotic**Bionic**Synthetic**Automatic**1
+c220**Which of these is a satellite TV channel?**Trademark**Landmark**Hallmark**Dirtymark**2
+c221**Complete Baldrick's catchphrase from the 'Blackadder' series, 'I have a cunning ...'?**Fox**Mind**Plan**Wife**2
+c222**Which cartoon character has the reputation of being the fastest mouse in all of Mexico?**Zippy Zapata**Speedy Gonzales**Pacey Pepe**Hasty Hernandez**1
+c223**Which of these is a rowing expression?**Catch a fish**Catch a line**Catch a crab**Catch a cold**2
+c224**By what nickname is the Barbarians rugby club known?**Woof-woofs**Meow-meows**Moo-moos**Baa-baas**3
+c225**Which of these are located at the back of your throat?**Deltoids**Tabloids**Adenoids**Solenoids**2
+c226**What type of steroids have a protein-building effect?**Carbolic**Shambolic**Anabolic**Diabolic**2
+c227**What would be used to boost an electrical signal?**Ambrosia**Amphitheatre**Amphetamine**Amplifier**3
+c228**How many lines are used for the 'equals' sign in mathematical notation?**One**Two**Three**Four**1
+c229**Which chemical element was named after a planet in our solar system?**Venusium**Jupiterium**Uranium**Saturnium**2
+c230**Which is not a classification of star?**Red giant**White dwarf**Red dwarf**Green goblin**3
+c231**Complete the name of the inventor of the telephone, Alexander Graham ...?**Bell**Ring**Gong**Ping**0
+c232**'Freak of Nature' is the title of a worldwide hit album by whom?**Anastacia**Caucasia**Dysphasia**Phoenicia**0
+c233**Which girl group had hits in the 1980s with 'Robert De Niro's Waiting' and 'Venus'?**Orangerama**Peachrama**Lemonrama**Bananarama**3
+c234**In the title of the Beatles album, to which club do Sergeant Pepper's band members belong?**Singles**Lonely Hearts**Two's Company**Bleeding Hearts**1
+c235**Which band was fronted by the late Ian Dury?**Bareheads**Bigheads**Baldheads**Blockheads**3
+c236**Robbie Williams was once a member of which of these?**Ouch!**Take That**Wham!**Biff!**1
+c237**Which group had a UK hit in 2001 with '21 Seconds'?**So Solid Crew**So Stout Crew**So Tough Crew**So Mighty Crew**0
+c238**Which of the following is a popular girl band?**Mys-Tery**Mis-Match**Mis-Teeq**Mis-Thebus**2
+c239**Complete the title of the well-known hymn, 'Abide with ...'?**Him**Them**Me**The Hilton**2
+c240**Which of these is a three-stringed musical instrument?**Balaclava**Balakirev**Balalaika**Balanchine**2
+c241**Which name completes the saying 'I'm all right ...'?**Jeremy**Jermaine**Jacob**Jack**3
+c242**An achievement to be proud of is a ' ... in one's cap'?**Quill**Wing**Plume**Feather**3
+c243**According to the nursery rhyme, 'you shall have a fishy when ...' what comes in?**The Tide**The Boat**The Wife**The Horse**1
+c244**Which 'Man' was Robinson Crusoe's companion on his desert island?**Monday**Wednesday**Thursday**Friday**3
+c245**Which term applies to light novels, often thrillers, which do not require much effort to read?**Station novel**Railway novel**Airport novel**Heliport novel**2
+c246**Which of these is a term for an actor?**Equestrian**Thespian**Pedestrian**Martian**1
+c247**Which part of a horseradish plant is normally used to make the sauce?**Leaf**Seed**Flower**Root**3
+c248**Which of these might be sprinkled on a rice pudding?**Cinnabar**Cinnamon**Cincinnati**Cinerama**1
+c249**With which French region is a certain type of quiche associated?**Alsace**Lorraine**Basque**Dordogne**1
+c250**Which salad dressing is named after a group of islands in the St Lawrence river?**Ten Island**Hundred Island**Thousand Island**Million Island**2
+c251**What is Double Gloucester?**Card game**Cheese**Very thick hedge**Thatched roof**1
+c252**Which of these first came on the market in 1937?**Posh Spice**Scary Spice**Baby Spice**Old Spice**3
+c253**A person who slavishly buys the latest clothes is a 'fashion ...'?**Witness**Culprit**Suspect**Victim**3
+c254**In which board game do players move around the board, eliminating suspects from their list?**Scrabble**Trivial Pursuit**Monopoly**Cluedo**3
+c255**Which was a 14th century British battle?**Steve Martin**Bill Murray**Chevy Chase**John Candy**2
+c256**Who was not a Roman emperor?**Hadrian**Parallax**Claudius**Tiberius**1
+c257**Which is the principal container port of the Port of London?**Albury**Tilbury**Bigbury**Glastonbury**1
+c258**Which of these is an imposing structure at the end of The Mall in London?**Admiralty Curve**Admiralty Bend**Admiralty Arch**Admiralty Arc**2
+c259**Which of these is a town in Derbyshire?**Mattie**Matsecure**Matfasten**Matlock**3
+c260**Which is a shipping forecast area in the North Sea?**Norwegian Munsch**Danish Choo**German Bight**Dutch Nibling**2
+c261**Which island is known as Kriti in its own language?**Crete**Corsica**Corfu**Cuba**0
+c262**In which language did the cry of approval or success 'Olé!' originate?**French**German**Spanish**Italian**2
+c263**What is the French for 'king'?**Kaiser**Duc**Herzog**Roi**3
+c264**What term is used for the whole of the background of a flag?**Meadow**Lea**Pasture**Field**3
+c265**What term means a movie that is a box-office failure?**Grenade**Mine**Bomb**Shell**2
+c266**Complete the title of the film starring Colin Firth and Scarlett Johansson, 'Girl with a ...'?**Pearl Earring**Jade Necklace**Diamond Ring**Gold Tooth**0
+c267**In which pantomime is Buttons a main character?**Cinderella**Aladdin**Peter Pan**Dick Whittington**0
+c268**At which fictional school is the musical 'Grease' set?**St Trinian's**Rydell High**Hogwarts**Grange Hill**1
+c269**Which of these is a colloquial term for a newspaper?**Rag**Cloth**Towel**Tissue**0
+c270**When one takes offence, one can be said to take what?**Umbrage**Umbrella**Umbilical**Umpteen**0
+c271**Which word is sometimes used to mean a dessert?**Befores**Whiles**Afters**Nevers**2
+c272**Which of these provides a link between television programmes?**Announcer**Producer**Director**Cameraman**0
+c273**Someone capable, is said to have 'a safe pair of ...'?**Eyes**Ears**Feet**Hands**3
+c274**What is a song of established popularity called?**Banner**Bunting**Standard**Flag**2
+c275**According to the saying, 'there's no such thing as a free ...'?**Laugh**Lager**Lunch**Loan**2
+c276**Which of these is a Cockney most likely to wear after he has been 'cash and carried'?**Bowler hat**Wedding ring**Green trousers**Sheepskin coat**1
+c277**According to the saying, what ought you to do 'while the sun shines'?**Make off**Make up**Make hay**Make drinks**2
+c278**Someone with a disreputable character is often referred to as a 'bad ...'?**Sausage**Egg**Bacon**Bean**1
+c279**What would you proverbially do to someone's leg when deceiving them?**Pull it**Twist it**Bend it**Break it**0
+c280**Which creatures are traditionally kept in an aviary?**Birds**Fish**Reptiles**Insects**0
+c281**Which of these is a trademark for a public address system?**Tanner**Tandem**Tandoori**Tannoy**3
+c282**The Latin phrase 'compos mentis' means 'of sound ...'?**Advice**Health**Mind**Garden**2
+c283**Which is a material used in making roads?**Macaroni**Macabre**Macadam**Macdonald**2
+c284**Which prison shares its name with a national park?**Parkhurst**Dartmoor**Belmarsh**Holloway**1
+c285**Which of these is another name for the home of a badger or a fox?**Earth**Air**Wind**Fire**0
+c286**Which creatures are renowned for gathering in destructive swarms?**Llamas**Lizards**Lobsters**Locusts**3
+c287**From which of these do cats commonly suffer?**Fastballs**Hairballs**Meatballs**Curveballs**1
+c288**Which is not a species of owl?**Brawny**Eagle**Little**Long-eared**0
+c289**Steven Spielberg received the first what of 2003, on the Hollywood Walk of Fame?**Sun**Moon**Star**Spaceship**2
+c290**Who held a charity party at Aintree to celebrate his 18th birthday in 2003?**Alan Shearer**David Ginola**Wayne Rooney**David Beckham**2
+c291**Which is a 2003 release starring Jennifer Lopez and Ben Affleck?**Silli**Gigli**Larfi**Smili**1
+c292**Black Eyed Peas had a UK chart-topper in 2003 with 'Where is the ...'?**Love?**Chip Shop?**Bus Stop?**Cashpoint?**0
+c293**Who won Favourite Novelty Song with 'The Cheeky Song' at the 2003 National Music Awards?**The Saucy Girls**The Wicked Girls**The Cheeky Girls**The Naughty Girls**2
+c294**What were racing jockeys refused permission to use in the summer of 2003 by the Jockey Club?**Helmets**Whips**Mobile phones**Horses**2
+c295**Which brothers finished first and second in the 2003 Canadian Formula 1 Grand Prix?**The Montoyas**The Schumachers**The Barrichellos**The Raikkonens**1
+c296**Who or what finally travelled at over 200mph in the UK in July 2003?**John Prescott**A Eurostar train**Jenson Button**A white van driver**1
+c297**Which email-generated craze from the USA gathered momentum in the UK in 2003?**Spark crowding**Flash mobbing**Light massing**Glow gathering**1
+c298**Which of the following competitions did Turkey win in 2003?**Cricket World Cup**Eurovision**Six Nations Rugby**America's Cup**1
+c299**Who had to be restrained from 'going for the Gaffer' after being struck by a flying boot?**Alastair Campbell**David Beckham**Alec Stewart**Ant & Dec**1
+c300**Which of these words precedes 'blue' to give the name of a deep, rich colour?**Regal**Majestic**King's**Royal**3
+c301**Which of these is TV personality Jamie Oliver most likely to use?**Magic wand**Food blender**Garden spade**Paint roller**1
+c302**To what did the tennis player Billie Jean Moffitt change her surname when she married?**King**Queen**Prince**Earl**0
+c303**Which word describes a film that is a financial success?**Gangbuster**Filibuster**Blockbuster**Dambuster**2
+c304**What name is given to the projecting part of the face of a dog?**Muddle**Muggle**Muzzle**Muffle**2
+c305**Which of the following is a form of poker?**Stud**Playboy**Gigolo**Lothario**0
+c306**'Cosa Nostra' is the term sometimes used for the US branch of which organisation?**Mafia**MI6**FIFA**Women's Institute**0
+c307**Before adopting the euro, what was the main unit of currency in Ireland?**Punt**Kick**Boot**Tap**0
+c308**Which of the following involves events such as bareback riding and bull riding?**Three-day eventing**Show jumping**Rodeo**Dressage**2
+c309**Bachmann, Hornby and Peco are famous manufacturers of what?**Model railway kits**Trainers**Fishing rods**Cricket bats**0
+c310**Which game usually begins with the call 'Eyes down, look in'?**Scrabble**Bingo**Monopoly**Chess**1
+c311**Who invented a puzzle cube popular in the late 1970s and early 1980s?**Enrico Fermi**Ernst Blofeld**Erno Rubik**Buckminster Fuller**2
+c312**Which of these animals does not represent a sign of the zodiac?**Bull**Ram**Goat**Donkey**3
+c313**Which law states that if anything can go wrong, it will?**Parkinson's Law**Boyle's Law**Murphy's Law**Cole's Law**2
+c314**Which of these describes a type of loaf?**Brickhouse**Farmhouse**Townhouse**Henhouse**1
+c315**Which of these might a cowboy wear?**Blokes**Dudes**Guys**Chaps**3
+c316**Where are you most likely to see a 'matron of honour'?**Wedding**Hospital**Boarding school**Convent**0
+c317**Which of these is a common term for the London Underground system?**The hole**The tube**The pit**The pipe**1
+c318**What is the disturbed water left behind a moving ship called?**Scrub**Bathe**Clean**Wash**3
+c319**What are you said to do to a ship's anchor when raising it in preparation for departure?**Weigh it**Measure it**Sling it**Strike it**0
+c320**Which aircraft was so named because of the distinctive 'hump' in front of the pilot's cockpit?**Vickers Vimy**Sopwith Camel**Bristol Bulldog**Gloster Gladiator**1
+c321**By what alternative name is Aberdeen Airport known?**Dominoze**Dyce**Drarfts**Chequers**1
+c322**Joseph Cyril Bamford founded which company, known for its earth-moving equipment?**CAT**JCB**DIG**HOE**1
+c323**In which country is the Akashi-Kaikyo bridge, the world's longest suspension bridge?**India**Italy**Japan**USA**2
+c324**By what name was the fitness guru Derrick Evans known on British TV in the 1990s?**Mr Motivator**Mr Rotivator**Mr Cultivator**Mr Decimator**0
+c325**In the 1980s, the AA ran a campaign with the slogan, 'But I know a man who ...'?**Might**Won't**Doesn't**Can**3
+c326**Complete the title of the BBC comedy drama series starring Alan Davies, 'Jonathan ...'?**Pond**Canal**Lake**Creek**3
+c327**Which was a TV comedy series starring John Bird and John Fortune?**The Camisoles**The Long Johns**The Vests**The Petticoats**1
+c328**Who portrayed the TV characters Unlucky Alf and The Crafty Cockney?**Paul Bluehouse**Paul Whitehouse**Paul Redhouse**Paul Greenhouse**1
+c329**Which game features an '8' ball?**Volleyball**Basketball**Rugby league**Pool**3
+c330**In which sport might you legally use a hand-off on an opponent?**Rugby**Tennis**Netball**Croquet**0
+c331**The pommel horse is a piece of equipment used in which sporting discipline?**Gymnastics**Marathon**Weightlifting**Boxing**0
+c332**What nationality is the former Derby County striker Fabrizio Ravanelli?**French**Spanish**Italian**Dutch**2
+c333**Which is not an electrical SI unit of measurement?**Volt**Ampere**Ohm**Gallon**3
+c334**Which is a unit of measurement normally used for atmospheric pressure?**Bar**Pub**Inn**Tavern**0
+c335**Which of these is caused primarily by a deficiency of oxygen in the blood and tissues?**Altitude sickness**Morning sickness**Seasickness**Homesickness**0
+c336**Which highly contagious viral disease causes swelling of the salivary glands?**Bumps**Clumps**Lumps**Mumps**3
+c337**What does the abbreviation 'BTW' mean when used in an email?**Bring The Wine**Buy The Whisky**Burn The Wood**By The Way**3
