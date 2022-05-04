@@ -1,0 +1,27 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<h1>Audience</h1>
+
+<script src="https://cdn.socket.io/4.5.0/socket.io.min.js" integrity="sha384-7EyYLQZgWBi67fBtVxw60/OWl1kjsfrPFcaU0pp0nAh+i8FD068QogUvg85Ewy1k" crossorigin="anonymous"></script>
+<script>
+    var socket = io();
+
+    socket.on('connect', function() {
+        console.log('connected');
+    });
+
+    function join(name) {
+        socket.emit('join_game', {{ game_id }}, name, 'audience');
+    }
+
+    socket.on('join_successful', function(data) {
+        console.log('joined room', data['room_name'], 'on game', data['game_id'], 'with role', data['role']);
+    })
+    
+    socket.on('new_player', function(data) {
+        console.log('new player', data['name'], 'joined with role', data['role']);
+    })
+    
+</script>
+{% endblock %}
